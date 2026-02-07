@@ -14,7 +14,7 @@ tensorboard==2.18.0
 ```
 ## Data
 
-Data available here:[123](https://pan.baidu.com/s/1p32i5iV2qNY1szCwTPIWqA?pwd=wqg9 提取码: wqg9 )
+Data available here:https://drive.google.com/file/d/11v7b_fljlYC3arwul1JvKu0bVtMZfadn/view?usp=drive_link
 
 ## How to Run
 
